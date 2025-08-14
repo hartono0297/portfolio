@@ -10,7 +10,7 @@
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M20,8L12,13L4,8V6L12,11L20,6M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C2.89,4 2,4.89 20,4Z" />
               </svg>
-              hartonoaka97@email.com
+              hartonoaka97@gmail.com
             </a>
             <a href="tel:+6289512964872" class="contact-link">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">

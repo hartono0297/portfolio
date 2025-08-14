@@ -64,8 +64,8 @@ const featuredProjects = reactive([
     name: 'Portfolio Website',
     description: 'Modern, responsive portfolio website built with Vue.js and featuring smooth animations.',
     technologies: ['Vue.js', 'CSS3', 'Vite', 'Netlify'],
-    github: 'https://github.com/alexjohnson/portfolio',
-    demo: 'https://alexjohnson.dev'
+    github: 'https://github.com/hartono0297/portfolio.git',
+    demo: 'https://hartonoporto.netlify.app/'
   }
 ])
 </script>
