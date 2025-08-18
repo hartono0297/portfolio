@@ -39,27 +39,27 @@
 import { reactive } from 'vue'
 
 const featuredProjects = reactive([
-  {
-    name: 'E-Commerce Platform',
-    description: 'Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.',
-    technologies: ['Vue.js', 'Node.js', 'PostgreSQL', 'Stripe'],
-    github: 'https://github.com/alexjohnson/ecommerce-platform',
-    demo: 'https://ecommerce-demo.vercel.app'
-  },
-  {
-    name: 'Task Management App',
-    description: 'Collaborative project management tool with real-time updates, team collaboration, and progress tracking.',
-    technologies: ['React', 'Express.js', 'MongoDB', 'Socket.io'],
-    github: 'https://github.com/alexjohnson/task-manager',
-    demo: 'https://taskmanager-demo.netlify.app'
-  },
-  {
-    name: 'Weather Dashboard',
-    description: 'Interactive weather application with location-based forecasts, charts, and weather alerts.',
-    technologies: ['JavaScript', 'Chart.js', 'OpenWeather API', 'CSS3'],
-    github: 'https://github.com/alexjohnson/weather-dashboard',
-    demo: 'https://weather-dashboard-demo.surge.sh'
-  },
+  // {
+  //   name: 'E-Commerce Platform',
+  //   description: 'Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.',
+  //   technologies: ['Vue.js', 'Node.js', 'PostgreSQL', 'Stripe'],
+  //   github: 'https://github.com/alexjohnson/ecommerce-platform',
+  //   demo: 'https://ecommerce-demo.vercel.app'
+  // },
+  // {
+  //   name: 'Task Management App',
+  //   description: 'Collaborative project management tool with real-time updates, team collaboration, and progress tracking.',
+  //   technologies: ['React', 'Express.js', 'MongoDB', 'Socket.io'],
+  //   github: 'https://github.com/alexjohnson/task-manager',
+  //   demo: 'https://taskmanager-demo.netlify.app'
+  // },
+  // {
+  //   name: 'Weather Dashboard',
+  //   description: 'Interactive weather application with location-based forecasts, charts, and weather alerts.',
+  //   technologies: ['JavaScript', 'Chart.js', 'OpenWeather API', 'CSS3'],
+  //   github: 'https://github.com/alexjohnson/weather-dashboard',
+  //   demo: 'https://weather-dashboard-demo.surge.sh'
+  // },
   {
     name: 'Portfolio Website',
     description: 'Modern, responsive portfolio website built with Vue.js and featuring smooth animations.',
