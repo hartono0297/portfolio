@@ -57,7 +57,7 @@ const downloadResume = () => {
   // In a real application, this would download the actual PDF
   // For demo purposes, we'll create a sample download
   const link = document.createElement('a')
-  link.href = 'https://drive.google.com/file/d/1CCA8gSFEdNgaVisDlYWJXBn1Nvs_vUqS/view?usp=sharing'
+  link.href = 'https://drive.google.com/file/d/1mdnUkH8-fBqOnquUm9RDet03v9XF9ROU/view?usp=sharing'
   link.target = '_blank'
   document.body.appendChild(link)
   link.click()
