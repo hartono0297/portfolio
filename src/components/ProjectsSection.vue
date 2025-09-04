@@ -39,13 +39,13 @@
 import { reactive } from 'vue'
 
 const featuredProjects = reactive([
-  // {
-  //   name: 'E-Commerce Platform',
-  //   description: 'Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.',
-  //   technologies: ['Vue.js', 'Node.js', 'PostgreSQL', 'Stripe'],
-  //   github: 'https://github.com/alexjohnson/ecommerce-platform',
-  //   demo: 'https://ecommerce-demo.vercel.app'
-  // },
+  {
+    name: 'Expense Tracker',
+    description: 'Full-stack expense tracking application with user authentication, real-time data visualization.',
+    technologies: ['Vue.js', '.Net 8', 'SQL Server', 'Docker', 'Entity Framework','Git', 'GitLab', 'Postman', 'Swagger', 'JWT', 'REST API', 'Layered Architecture'],
+    github: 'https://github.com/hartono0297/expense-tracker-api.git',
+    //demo: 'https://ecommerce-demo.vercel.app'
+  },
   // {
   //   name: 'Task Management App',
   //   description: 'Collaborative project management tool with real-time updates, team collaboration, and progress tracking.',

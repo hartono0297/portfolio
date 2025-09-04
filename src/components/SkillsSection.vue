@@ -59,7 +59,7 @@ const skillCategories = reactive([
     title: 'Architecture',
     skills: [
       'RESTful APIs',
-      'Clean Architecture',
+      'Layered Architecture',
       'MVC Pattern'
     ]
   }
